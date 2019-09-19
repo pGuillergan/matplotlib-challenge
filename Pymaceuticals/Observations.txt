@@ -1,0 +1,5 @@
+1.  For most of the treaments, the tumor volume has gotten worse overtime except for Capomulin and Ramicane.
+
+2.  The Metastatic spread during the treatment is viartually similar in all drugs
+
+3.  Capomulin and Ramicane treated mice has the highest survival rate 
